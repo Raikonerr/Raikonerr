@@ -23,6 +23,6 @@ Laravel       ███████████████░░░░░░ 70
 
 ## 📫 Get in Touch
 
-- LinkedIn: [yourlinkedin](https://www.linkedin.com/in/elmehdibairouk/)
+- LinkedIn: [Click](https://www.linkedin.com/in/elmehdibairouk/)
 
 Feel free to reach out to me for collaboration, mentorship, or just to chat! 😄
